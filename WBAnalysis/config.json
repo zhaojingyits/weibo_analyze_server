@@ -1,0 +1,10 @@
+{
+    "filter": 0,
+    "since_date": "2020-03-01",
+    "write_mode": ["django_model"],
+    "original_pic_download": 0,
+    "retweet_pic_download": 0,
+    "original_video_download": 0,
+    "retweet_video_download": 0,
+    "cookie": "_T_WM=31047370596; ALF=1586155213; SCF=ArB8jhlvQIYIOJZSji9Cr5NitwKlBZF3sJCghKPzS58aw2EgF4LjIEGrp5vr9TBagTuafJRXWmSIEzTEwAW7tJY.; SUB=_2A25zZzNSDeRhGeNI71AV9izFzjqIHXVQqF0arDV6PUJbktANLXLbkW1NSHoMWkEQ1blB1myYcEyNKYmlFZ_sfJUb; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WWy0iQubJlbVPo8IJdYKri55JpX5K-hUgL.Fo-cShzXSoz4SKq2dJLoIp7LxKML1KBLBKnLxKqL1hnLBoMfSoBEShqE1K-c; SUHB=0idbcq9apwWt7t; SSOLoginState=1583563522"
+}
